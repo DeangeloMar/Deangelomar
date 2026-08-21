@@ -40,8 +40,13 @@ IT Support • Troubleshooting • Ticket Management • Documentation
 
 <h2>📄 Certifications</h2>
 
-- [CompTIA Security+ (SY0-701)](https://www.credly.com/badges/ae143738-4160-42e7-a3bb-b3b1f88a6ffd)
+<h3>CompTIA Security+ — SY0-701</h3>
 
+<p>
+<a href="https://www.credly.com/badges/ae143738-4160-42e7-a3bb-b3b1f88a6ffd">
+  View Certification →
+</a>
+</p>
 
 <h2> 🤳 Connect with me:</h2>
 
