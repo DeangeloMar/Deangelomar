@@ -1,8 +1,20 @@
-<h1>Hi, I'm De'Angelo! <br/><a href="https://www.linkedin.com/in/deangelo-martinez-787a2630b/">Network Operations Specialist</a>, </h1>
+<h1 align="center">Hi, I'm De'Angelo!</h1>
 
-<h2>👨‍💻 General IT Projects:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/deangelo-martinez-787a2630b/">
+    <strong>Network Operations Specialist</strong>
+  </a>
+  | IT Infrastructure | Cybersecurity
+</p>
 
-<h3>🖥️ Active Directory Home Lab</h3>
+<p align="center">
+  Building hands-on experience through home labs, technical projects, and continuous learning.
+</p>
+
+
+<h2>🛠️Featured Projects</h2>
+
+<h3>Active Directory Home Lab</h3>
 
 <p>
 Built a Windows Server environment to practice Active Directory administration,
@@ -20,7 +32,7 @@ Windows Server • Active Directory • PowerShell
 </a>
 </p>
 
-<h3>🎫 IT Ticketing System</h3>
+<h3>IT Ticketing System</h3>
 
 <p>
 Developing an IT ticketing environment to practice tracking support requests,
@@ -48,7 +60,7 @@ IT Support • Troubleshooting • Ticket Management • Documentation
 </a>
 </p>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
