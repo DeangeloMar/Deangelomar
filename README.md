@@ -2,8 +2,41 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/DeangeloMar/ActiveDirectoryLab)
-- [Ticketing system](https://github.com/joshmadakor1/Algorithms-Practice)
+<h3>🖥️ Active Directory Home Lab</h3>
+
+<p>
+Built a Windows Server environment to practice Active Directory administration,
+user and group management, organizational units, and Windows networking concepts.
+</p>
+
+<p>
+<strong>Technologies:</strong>
+Windows Server • Active Directory • PowerShell
+</p>
+
+<p>
+<a href="https://github.com/DeangeloMar/ActiveDirectoryLab">
+  🔗 View Project
+</a>
+</p>
+
+<h3>🎫 IT Ticketing System</h3>
+
+<p>
+Developing an IT ticketing environment to practice tracking support requests,
+troubleshooting issues, documenting solutions, and managing common help desk workflows.
+</p>
+
+<p>
+<strong>Focus:</strong>
+IT Support • Troubleshooting • Ticket Management • Documentation
+</p>
+
+<p>
+<a href="https://github.com/DeangeloMar/ActiveDirectoryLab">
+  🔗 View Project
+</a>
+</p>
 
 <h2>📄 Certifications</h2>
 
