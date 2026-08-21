@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm De'Angelo!</h1>
+<h1 align="center">Hi, I'm De'Angelo!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deangelo-martinez-787a2630b/">
@@ -6,6 +6,7 @@
   </a>
   | IT Infrastructure | Cybersecurity
 </p>
+</h1>
 
 <p align="center">
   Building hands-on experience through home labs, technical projects, and continuous learning.
