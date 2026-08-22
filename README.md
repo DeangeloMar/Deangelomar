@@ -15,7 +15,7 @@
 
 <h2>🛠️Featured Projects</h2>
 
-<h3>Active Directory Home Lab</h3>
+<h3>Active Directory</h3>
 
 <p>
 Built a Windows Server environment to practice Active Directory administration,
