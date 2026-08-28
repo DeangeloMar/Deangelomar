@@ -46,7 +46,7 @@ IT Support • Troubleshooting • Ticket Management • Documentation
 </p>
 
 <p>
-<a href="https://github.com/DeangeloMar/ActiveDirectoryLab">
+<a href="https://github.com/DeangeloMar/IT-Ticketing-System">
   🔗 View Project
 </a>
 </p>
